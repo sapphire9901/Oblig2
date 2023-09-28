@@ -6,9 +6,11 @@
 
 body{
     font-family: serif;
+    margin-left: 0.5em;
     background-color: lightgray;
     h1 {
         font-weight: bolder;
-    } 
+    }
+   
     
 }
