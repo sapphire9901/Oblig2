@@ -1,9 +1,11 @@
 #flowers {
-    width: 500px;
+    width: 1200px;
+    align-items: center;
     
 }
 
 body{
+    font-family: Bitter;
     background-color: lightgray;
     h1 {
         font-weight: bolder;
