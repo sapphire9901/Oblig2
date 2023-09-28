@@ -8,7 +8,9 @@ body{
     font-family: serif;
     margin-left: 2.0em;
     background-color: lightgray;
-  
+}
+#title {
+    font-size: 20px;
 }
 h1 {
     font-weight: bolder;
