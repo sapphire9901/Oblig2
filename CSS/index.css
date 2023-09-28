@@ -7,5 +7,8 @@
 body{
     font-family: Bitter;
     background-color: lightgray;
+    h1 {
+        font-weight: bolder;
+    } 
     
 }
