@@ -6,12 +6,34 @@
 
 body{
     font-family: serif;
+    font-size: 18px;
     margin-left: 2.0em;
     background-color: lightgray;
 }
 #title {
-    font-size: 36px;
-}
-h1 {
+    font-size: 62px;
+    font-family: sans-serif;
     font-weight: bolder;
-} 
+}
+#undertitle {
+    font-family: sans-serif;
+}
+#journalist{color: orange;
+}
+#textpic{
+    font-size: 24px; 
+    font-family: sans-serif;
+}
+#subtitle {
+    font-size: 28px;
+    font-family: sans-serif;
+ }
+#subtitle2 {
+    font-size: 28px;
+    font-family: sans-serif;
+ }
+
+
+a{
+    font-size: 24px;
+}
