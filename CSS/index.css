@@ -23,12 +23,16 @@ body{
 #textpic{
     font-size: 24px; 
     font-family: sans-serif;
+    color: orange;
 }
 #subtitle {
     font-size: 28px;
     font-family: sans-serif;
  }
-
+#subtitle2 {
+    font-size: 28px;
+    font-family: sans-serif;
+ }
 
 
 a{
