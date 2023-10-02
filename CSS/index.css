@@ -1,5 +1,5 @@
-#flowers {
-    width: 1200px;
+#brain {
+    height: 800px;
     align-items: center;
     
 }
@@ -33,13 +33,12 @@ body{
 
 
 a{
-    font-size: 24px;
     text-decoration: none;
 }
 
 #main{
     margin-left: 100px;  
 }
-#bildetekst{
+.bildetekst{
     font-size: 16px;
 }
