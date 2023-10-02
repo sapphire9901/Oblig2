@@ -28,12 +28,14 @@ body{
     font-size: 28px;
     font-family: sans-serif;
  }
-#subtitle2 {
-    font-size: 28px;
-    font-family: sans-serif;
- }
+
 
 
 a{
     font-size: 24px;
+}
+
+.main{
+    margin-left: 100px;
+    
 }
