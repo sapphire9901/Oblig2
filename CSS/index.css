@@ -1,18 +1,44 @@
 #flowers {
-    width: 60%;
-    height: 40%;
+    width: 1200px;
     align-items: center;
     
 }
 
 body{
     font-family: serif;
+    font-size: 18px;
     margin-left: 2.0em;
     background-color: lightgray;
 }
 #title {
-    font-size: 12px;
-}
-h1 {
+    font-size: 62px;
+    font-family: sans-serif;
     font-weight: bolder;
-} 
+}
+#undertitle {
+    font-family: sans-serif;
+}
+#journalist{color: orange;
+}
+#textpic{
+    font-size: 16px; 
+    font-family: sans-serif;
+    color: orange;
+}
+.subtitle {
+    font-size: 28px;
+    font-family: sans-serif;
+ }
+
+
+
+a{
+        text-decoration: none;
+}
+
+#main{
+    margin-left: 100px;  
+}
+.bildetekst{
+    font-size: 16px;
+}
