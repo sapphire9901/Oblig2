@@ -1,5 +1,9 @@
 #flowers {
+<<<<<<< HEAD
     width: 100%;
+=======
+    width: 1200px;
+>>>>>>> parent of c1874b2 (commitshit)
     align-items: center;
     
 }
@@ -40,12 +44,13 @@ h1 {
 
 
 a{
+    font-size: 24px;
     text-decoration: none;
 }
 
 #main{
     margin-left: 600px;  
 }
-.bildetekst{
+#bildetekst{
     font-size: 16px;
 }
