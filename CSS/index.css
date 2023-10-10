@@ -43,6 +43,7 @@ a{
 
 #journalist{color: orange;
     font-size: 12px;
+    font-weight: bold;
 }
 
 .bildetekst{
@@ -53,6 +54,7 @@ a{
     color: orange;
     font-size: 12px; 
     font-family: sans-serif;
+    font-weight: bold;
 }
 
 .subtitle {
