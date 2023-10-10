@@ -21,7 +21,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 2.0em;
     background-color: lightgray;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 #innhold{
@@ -34,24 +34,24 @@ body{
 }
 
 #undertitle {
-    font-size: 20px;
+    font-size: 24px;
 }
 a{
-    font-size: 16px;
+    font-size: 12px;
     text-decoration: none;
 }
 
 #journalist{color: orange;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .bildetekst{
-    font-size: 16px;
+    font-size: 12px;
 }
 
 #textpic{
     color: orange;
-    font-size: 16px; 
+    font-size: 12px; 
     font-family: sans-serif;
 }
 
@@ -67,7 +67,6 @@ a{
     margin: 100px auto;
     margin-top: 0;
     width: 80%;
-    font-size: 24px;
     
 }
 
