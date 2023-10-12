@@ -46,6 +46,14 @@ a{
     font-weight: bold;
 }
 
+#fotograf h3{
+    writing-mode: vertical-lr;
+    display: inline;
+    transform: rotate(180deg);
+    font-size: 14px;
+    margin-left: 0px;
+}
+
 .bildetekst{
     font-size: 12px;
 }
@@ -69,6 +77,8 @@ a{
     margin: 100px auto;
     margin-top: 0;
     width: 80%;
+    text-align: justify;
+    
     
 }
 
