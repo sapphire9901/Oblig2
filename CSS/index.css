@@ -93,9 +93,10 @@ a{
 .footer-content{
     background: yellow;
     height: auto;
-    padding-bottom: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     color: black;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
     
 }
