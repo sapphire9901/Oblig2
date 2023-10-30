@@ -24,6 +24,10 @@ body{
     font-size: 18px;
 }
 
+.page2{
+    background-color: white;
+}
+
 #innhold{
     margin-right: auto;
 }
