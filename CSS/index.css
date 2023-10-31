@@ -26,6 +26,48 @@ body{
 
 .page2{
     background-color: white;
+    display: inline;
+    margin: auto;
+
+}
+#arkitektur{
+    float: right;
+    margin-top: 10px;
+    margin-left: 100px;
+    max-width: 500px;
+
+}
+    
+
+header{
+    background-color: #FACD13;
+}
+
+header img{
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    position: relative;
+    
+
+}
+
+.access{
+    width: 200%;
+
+}
+
+
+
+
+#footerlogo{
+    float: right;
+    width: 150px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    position: relative;
+    
+    
 }
 
 #innhold{
@@ -89,6 +131,7 @@ a{
 
 #data1200{
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
 
 }
 
@@ -105,7 +148,7 @@ a{
 
 
 .footer-content{
-    background: yellow;
+    background: #FACD13;
     height: auto;
     padding-bottom: 10px;
     padding-top: 10px;
