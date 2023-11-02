@@ -38,6 +38,12 @@ body{
     max-width: 500px;
 
 }
+
+#arkitektur a{
+    float: inline-start;
+    font-size: 15px;
+
+}
     
 
 header{
